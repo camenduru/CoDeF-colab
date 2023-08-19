@@ -11,10 +11,13 @@
 ## Tutorial
 ### Train (Step 1)
 ![step1](https://github.com/camenduru/CoDeF-colab/assets/54370274/f4a15aca-7c20-414f-8aa3-3f9b65e4aeb2)
-![step2](https://github.com/camenduru/CoDeF-colab/assets/54370274/4b1f3811-6c36-405b-bcd0-8dea5ab01ee0)
+![step1.1](https://github.com/camenduru/CoDeF-colab/assets/54370274/4b1f3811-6c36-405b-bcd0-8dea5ab01ee0)
 
 ### Generate Canonical Image (Step 2)
-![step3](https://github.com/camenduru/CoDeF-colab/assets/54370274/3bb653ef-3da7-44a1-aac6-56f244d8fe3b)
+![step2](https://github.com/camenduru/CoDeF-colab/assets/54370274/3bb653ef-3da7-44a1-aac6-56f244d8fe3b)
+
+### Generate (Step 3)
+![step3](https://github.com/camenduru/CoDeF-colab/assets/54370274/cb325788-6479-4e41-97c9-c9364c6ff98c)
 
 ## Main Repo
 https://github.com/qiuyu96/CoDeF
