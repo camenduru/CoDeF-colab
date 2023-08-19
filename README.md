@@ -31,3 +31,4 @@ https://qiuyu96.github.io/CoDeF/
 https://arxiv.org/abs/2308.07926
 
 ## Output
+https://github.com/camenduru/CoDeF-colab/assets/54370274/537a71a8-7d23-4fee-a8b5-4a832faca220
