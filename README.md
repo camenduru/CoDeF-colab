@@ -21,6 +21,8 @@
 
 ### Generate with ControlNet (Step 3)
 ![step3](https://github.com/camenduru/CoDeF-colab/assets/54370274/cb325788-6479-4e41-97c9-c9364c6ff98c)
+![step3.1](https://github.com/camenduru/CoDeF-colab/assets/54370274/125d33cd-650c-4821-a04e-052caddedac0)
+
 
 ## Main Repo
 https://github.com/qiuyu96/CoDeF
@@ -32,4 +34,7 @@ https://qiuyu96.github.io/CoDeF/
 https://arxiv.org/abs/2308.07926
 
 ## Output
+
 https://github.com/camenduru/CoDeF-colab/assets/54370274/537a71a8-7d23-4fee-a8b5-4a832faca220
+
+https://github.com/camenduru/CoDeF-colab/assets/54370274/7a43a5c6-80ca-449a-aea8-8feb4d586ffa
