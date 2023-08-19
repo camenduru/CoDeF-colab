@@ -19,7 +19,7 @@
 ![step2](https://github.com/camenduru/CoDeF-colab/assets/54370274/3bb653ef-3da7-44a1-aac6-56f244d8fe3b)
 ![step2.1](https://github.com/camenduru/CoDeF-colab/assets/54370274/c38e1bc5-2bb6-45d5-b4ba-c1727df4fd3f)
 
-### Generate Video with ControlNet (Step 3)
+### Generate Video (Step 3)
 ![step3](https://github.com/camenduru/CoDeF-colab/assets/54370274/cb325788-6479-4e41-97c9-c9364c6ff98c)
 ![step3.1](https://github.com/camenduru/CoDeF-colab/assets/54370274/125d33cd-650c-4821-a04e-052caddedac0)
 
