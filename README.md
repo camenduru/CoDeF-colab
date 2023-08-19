@@ -16,7 +16,7 @@
 ### Generate Canonical Image (Step 2)
 ![step2](https://github.com/camenduru/CoDeF-colab/assets/54370274/3bb653ef-3da7-44a1-aac6-56f244d8fe3b)
 
-### Generate (Step 3)
+### Generate with ControlNet (Step 3)
 ![step3](https://github.com/camenduru/CoDeF-colab/assets/54370274/cb325788-6479-4e41-97c9-c9364c6ff98c)
 
 ## Main Repo
