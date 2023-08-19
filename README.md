@@ -13,6 +13,9 @@
 ![step1](https://github.com/camenduru/CoDeF-colab/assets/54370274/f4a15aca-7c20-414f-8aa3-3f9b65e4aeb2)
 ![step2](https://github.com/camenduru/CoDeF-colab/assets/54370274/4b1f3811-6c36-405b-bcd0-8dea5ab01ee0)
 
+### Generate Canonical Image (Step 2)
+![step3](https://github.com/camenduru/CoDeF-colab/assets/54370274/3bb653ef-3da7-44a1-aac6-56f244d8fe3b)
+
 ## Main Repo
 https://github.com/qiuyu96/CoDeF
 
