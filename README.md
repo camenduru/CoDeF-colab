@@ -23,6 +23,7 @@
 ![step3](https://github.com/camenduru/CoDeF-colab/assets/54370274/cb325788-6479-4e41-97c9-c9364c6ff98c)
 ![step3.1](https://github.com/camenduru/CoDeF-colab/assets/54370274/125d33cd-650c-4821-a04e-052caddedac0)
 
+Note: Please edit your image width and height inside configs/{NAME}/{EXP_NAME}.yaml
 
 ## Main Repo
 https://github.com/qiuyu96/CoDeF
